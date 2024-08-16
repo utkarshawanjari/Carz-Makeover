@@ -1,0 +1,24 @@
+@keyframes heading {
+    from{
+        transform:translateY(-60px);
+    }
+    to{
+        transform: translateY(0);
+    }
+}
+@keyframes navigation{
+    from{
+        transform: translateX(-100%);
+    }
+    to{
+        transform: translateX(0);
+    }
+}
+ @keyframes service{
+    from{
+        transform:translateX(-80%)
+    }
+    to{
+        transform:translateX(0);
+    }
+}

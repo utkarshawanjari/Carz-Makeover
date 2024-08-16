@@ -1,0 +1,27 @@
+.container{
+    border: 4px solid black;
+}
+.first{
+    border:2px solid orange;
+}
+.second{
+    border:3px solid orange;
+    background-color: darkorchid;
+}
+.third{
+    margin-right:10px;
+    color:blue;
+}
+.forth{
+    border:2px solid orange;
+    height:430px;
+}
+.fifth{
+    font-size: 25px;
+}
+.sixth{
+    background-color: skyblue;
+}
+.orange{
+    background-color: orange;
+}

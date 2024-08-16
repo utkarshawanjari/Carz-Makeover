@@ -1,0 +1,50 @@
+/* for tab */
+@media only screen and (min-width:801px) and (max-width:1024px){
+.front-one{
+    margin-left:250px;
+}
+.team-leader{
+    height:450px;
+    padding-top:0;
+}
+.team-one{
+    font-size:13px;
+}
+.team1info{
+    font-size:16px;
+}
+
+}
+
+/* for mobile */
+@media only screen and (max-width:800px){
+    .one{
+        font-size:15px;
+    }
+    .front-one{
+        margin-left:150px;
+    }
+    .service{
+        flex-direction:column;
+    }
+    .service1{
+        margin-left:0;
+        height:450px;
+    }
+    .image{
+        height:450px;
+        width:630px;
+        margin-left:13px;
+    }
+    .team-leader{
+        height:450px;
+        padding:0;
+    }
+    .team-one{
+        font-size:10px;
+    }
+    .team1info{
+        font-size:11px;
+    }
+    
+}
